@@ -104,6 +104,11 @@ section {
     color: var(--black);
     font-weight: bolder;
 }
+.header .header-1 .logo span {
+    font-size: 2.5rem;
+    color: var(--primary);
+    font-weight: bolder;
+}
 
 .header .header-1 .logo i {
     color: var(--primary);
